@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la /*oot
+ls -lan /*oot
